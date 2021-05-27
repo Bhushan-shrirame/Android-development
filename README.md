@@ -2,6 +2,7 @@
 All the application from start to end
 
 Delete the file from given folder to upload android studio project in github
+
 appname>app>build
 
 To run the project which are uploaded in github 
